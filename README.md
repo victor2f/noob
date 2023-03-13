@@ -1,4 +1,4 @@
-# :duck: `quackquack`
+# :duck: `noob`
 _Studying the **python programming** language and the **english language**._
 
 ---
